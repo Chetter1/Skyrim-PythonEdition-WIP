@@ -2,6 +2,8 @@
 
 **This software is currently under active development and should be considered a work in progress.**
 
+**THIS IS A STANDALONE BAT FILE, SKYRIM IS NOT REQUIRED**
+
 ### What this means:
 
 - **Beta/Alpha Status**: The current version may contain bugs, incomplete features, or unexpected behavior
@@ -38,3 +40,4 @@ If you encounter issues or have questions:
 
 *Last updated: [8/15/2025]*  
 *Version: [0.2.3]*
+
